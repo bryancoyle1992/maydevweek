@@ -8,7 +8,7 @@
       "Supplier": "Fresh Farms",
       "AuditType": "Routine",
       "AuditOutcome": "Passed",
-      "AuditStatus": 3
+      "AuditStatus": 2
     },
     {
       "id": 1,
@@ -149,6 +149,16 @@
       "AuditType": "Random Type",
       "AuditOutcome": "Random Outcome",
       "AuditStatus": 4
+    },
+    {
+      "id": 45673,
+      "AuditDate": "23/05/2021",
+      "AuditSite": "Random Site",
+      "Auditor": "Random Auditor",
+      "Supplier": "Random Supplier",
+      "AuditType": "Random Type",
+      "AuditOutcome": "Random Outcome",
+      "AuditStatus": 1
     }
   ]
 }
